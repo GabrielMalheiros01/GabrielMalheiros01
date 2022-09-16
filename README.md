@@ -12,7 +12,7 @@
 <img align="center" alt="Bill-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="center" alt="Bill-Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 <img align="center" alt="Bil-Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/983120704360837180/1020306818360160257/IMG-20220916-WA0001.jpg?width=676&height=676">
+<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/983120704360837180/1020310824797085838/unknown.png?width=676&height=676">
 </div>
   
   ##
