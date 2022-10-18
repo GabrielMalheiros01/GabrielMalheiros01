@@ -1,4 +1,4 @@
-## Oi eu sou a Gabriel Malheiros
+## Oi, eu sou a Gabriel Malheiros
 <div align="center">
   <a href="https://github.com/GabrielMalheiros01">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=GabrielMalheiros01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
